@@ -1,6 +1,6 @@
 # smart-expense-manager
 A symple Python CLI project created as part of my Python learning journey.
-Python CLI app for managing personal expenses
+This program allows users to manage personal expenses directly from the terminal.
 # Smart Expense Manager (CLI App)
 
 A simple command-line application written in Python to manage personal expenses.
